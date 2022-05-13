@@ -652,7 +652,7 @@ section.lazy-placeholder:after {
   width: 0;
   position: absolute;
   left: 1rem;
-  color: #e96188;
+  color: #fac769;
   top: 0.5rem;
   margin-right: 0.5rem;
   line-height: 1;
@@ -691,7 +691,7 @@ section.lazy-placeholder:after {
     left: 0;
     right: 100%;
     bottom: -0.2em;
-    background: #e96188;
+    background: #fac769;
     height: 3px;
     -webkit-transition-property: right;
     transition-property: right;
@@ -2181,7 +2181,7 @@ section.lazy-placeholder:after {
   width: 0;
   position: absolute;
   left: 1rem;
-  color: #e96188;
+  color: #fac769;
   top: 0.5rem;
   margin-right: 0.5rem;
   line-height: 1;
@@ -2220,7 +2220,7 @@ section.lazy-placeholder:after {
     left: 0;
     right: 100%;
     bottom: -0.2em;
-    background: #e96188;
+    background: #fac769;
     height: 3px;
     -webkit-transition-property: right;
     transition-property: right;
@@ -3637,7 +3637,7 @@ section.lazy-placeholder:after {
   width: 0;
   position: absolute;
   left: 1rem;
-  color: #e96188;
+  color: #fac769;
   top: 0.5rem;
   margin-right: 0.5rem;
   line-height: 1;
@@ -3676,7 +3676,7 @@ section.lazy-placeholder:after {
     left: 0;
     right: 100%;
     bottom: -0.2em;
-    background: #e96188;
+    background: #fac769;
     height: 3px;
     -webkit-transition-property: right;
     transition-property: right;
